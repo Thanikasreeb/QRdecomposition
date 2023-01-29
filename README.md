@@ -66,7 +66,8 @@ QR_Decomposition(a)
 ## Output
 
 
-
+![](/qrdecom.png)
+![](/qr2.png)
 
 
 
